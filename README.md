@@ -405,6 +405,7 @@ Do it in real world!
 - [KeepRule](https://keeprule.com) - AI-powered investment discipline tracking platform with curated principles from 26 legendary investors including Buffett, Munger, and Dalio. Helps traders maintain rational decision-making.
 - [Philidor](https://docs.philidor.io/docs) - DeFi risk infrastructure for AI agents: MCP server and REST API for vault risk scores, portfolio analysis, and due diligence. No API key. 700+ vaults, 9 protocols, 6 chains.
 - [Hindsight](https://hindsight.vectorize.io) - State-of-the-art long-term memory for AI agents by Vectorize. Open source, self-hostable, with integrations for LangChain, CrewAI, MCP, and more. Gives financial trading agents persistent memory across sessions.
+- [Mortgage Tools by Jenny](https://jenny.mortgage/mortgage-tools/) - Free hosted MCP server with six read-only Canadian mortgage calculators (renewal offers, prepayments, break or stay, debt consolidation) for Claude, ChatGPT and other MCP clients. No sign-in or API key.
 
 #### Other Resource
 
